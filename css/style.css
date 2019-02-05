@@ -1,0 +1,202 @@
+body
+{
+	border: 1px solid black;
+
+}
+h1
+{
+	padding: 10px;
+	margin: 0px auto;
+	width: 595px;
+}
+h2
+{
+	width: 595px;
+}
+.border
+{
+	border: 1px solid;
+	border-color: #E3EBF2;
+}
+.color
+{
+	color: #E3EBF2;
+}
+hr
+{
+	color: #E3EBF2;
+}
+p
+{	margin: 0px;
+	font-size: 25px;
+	color: #E3EBF2;
+}
+span
+{
+	margin: 0px 5px;
+	padding:1px 10px;
+}
+
+.list
+{
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
+i
+{	font-size: 20px;
+	margin: 0px 5px;
+	color: #E3EBF2;
+}
+.center
+{
+	padding: 5px;
+	text-align: center;
+}
+.container
+{
+	background: #2773A9;
+	position: relative;
+	margin: 0px auto;
+	height: 1110px;
+	width: 99.9%;
+	
+}
+
+.wrapper1
+{
+	margin: 10px auto;
+	width: 98%;
+	height: 1085px;
+	position: relative;
+}
+.wrapper2
+{
+	margin: 10px auto;
+	width: 92.5%;
+	height: 960px;
+	position: relative;
+}
+.row
+{
+	margin: 25px auto;
+}
+.float
+{
+	float: left;
+}
+.clear
+{
+	clear: both;
+}
+.fa-chevron-circle-down
+{
+	margin-left: 10px;
+}
+.column1
+{
+	width: 30%;
+}
+.column2
+{
+	width: 40%;
+}
+.column3
+{
+	width: 30%;
+}
+.row2_1
+{
+	padding: 15px;
+	height: 51px;
+	position: relative;
+}
+.column2_1
+{
+	position: absolute;
+	width: 90%;
+}
+.column2_2
+{
+	position: absolute;
+	height: 80px;
+	width: 7%;
+	right: 0px;
+	top: 0px;
+}
+.clear
+{
+	clear: both;
+}
+.row2_2
+{
+	padding: 15px;
+	height: 100px;
+	position: relative;
+}
+.column2_2_1
+{
+	width: 20%;
+	position: absolute;
+}
+.x
+{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	font-size: 120px;
+	left: 0px;
+	top: 0px;
+}
+.column2_2_2
+{
+	width: 70%;
+	position: absolute;
+	left: 11%;
+	top: 10px;
+}
+.column2_2_3
+{ 
+	width: 10%;
+	position: absolute;
+	right: 35px;
+}
+.row2_2_3_1
+{
+	width: 142px;
+	height: 40px;
+	top: 0px;
+	position: absolute;
+}
+.fa-star
+{
+	font-size: 10px;
+}
+.row2_2_3_2
+{
+	width: 142px;
+	height: 50px;
+	top: 50px;
+	position: absolute;
+}
+.row2_3
+{
+	padding: 15px;
+	height: 30px;
+	position: relative;
+}
+.fa-share
+{
+	font-size:25px;
+}
+.column2_3_1
+{
+	position: absolute;
+	width: 80%;
+}	
+.column2_3_2
+{
+	position: absolute;
+	width: 20%;
+	right: 0px;
+}
